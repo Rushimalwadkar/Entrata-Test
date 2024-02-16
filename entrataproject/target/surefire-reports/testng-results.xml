@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T11:32:37 IST" name="Suite" finished-at="2024-02-16T11:36:29 IST" duration-ms="232479">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T11:32:37 IST" name="Test" finished-at="2024-02-16T11:36:29 IST" duration-ms="232479">
+      <class name="homepage.HomePage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:32:37 IST" name="setup" finished-at="2024-02-16T11:32:59 IST" duration-ms="21831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyIfPasswordAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:32:59 IST" name="VerifyIfPasswordAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn" finished-at="2024-02-16T11:33:06 IST" duration-ms="7029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIfPasswordAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:06 IST" name="tearDown" finished-at="2024-02-16T11:33:07 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:07 IST" name="setup" finished-at="2024-02-16T11:33:25 IST" duration-ms="18484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyIfPasswordEnterAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:25 IST" name="VerifyIfPasswordEnterAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn" finished-at="2024-02-16T11:33:33 IST" duration-ms="7184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIfPasswordEnterAndUserNameKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:33 IST" name="tearDown" finished-at="2024-02-16T11:33:34 IST" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:34 IST" name="setup" finished-at="2024-02-16T11:33:52 IST" duration-ms="17921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyIfUsernameEnterAndPasswordKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:33:52 IST" name="VerifyIfUsernameEnterAndPasswordKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn" finished-at="2024-02-16T11:34:00 IST" duration-ms="7494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIfUsernameEnterAndPasswordKeepBlankThenPleaseEnterUsernameAndPasswordMassageShouldDisplayInPropertyManagerLoginUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:00 IST" name="tearDown" finished-at="2024-02-16T11:34:01 IST" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:01 IST" name="setup" finished-at="2024-02-16T11:34:16 IST" duration-ms="15344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPropertyMangerButtonShouldVisibleAfterClickingOnSigningButton()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:16 IST" name="verifyPropertyMangerButtonShouldVisibleAfterClickingOnSigningButton" finished-at="2024-02-16T11:34:22 IST" duration-ms="6017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPropertyMangerButtonShouldVisibleAfterClickingOnSigningButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:22 IST" name="tearDown" finished-at="2024-02-16T11:34:23 IST" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:23 IST" name="setup" finished-at="2024-02-16T11:34:40 IST" duration-ms="17398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUsernameAndPasswordAreNotValidShouldDisplayAfterEnteringWrongDetailsInPropertyManagerLoginUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:40 IST" name="verifyUsernameAndPasswordAreNotValidShouldDisplayAfterEnteringWrongDetailsInPropertyManagerLoginUnderSignIn" finished-at="2024-02-16T11:34:48 IST" duration-ms="7852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameAndPasswordAreNotValidShouldDisplayAfterEnteringWrongDetailsInPropertyManagerLoginUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:48 IST" name="tearDown" finished-at="2024-02-16T11:34:49 IST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:34:49 IST" name="setup" finished-at="2024-02-16T11:35:06 IST" duration-ms="16915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyViewAppButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:35:06 IST" name="verifyViewAppButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn" finished-at="2024-02-16T11:35:35 IST" duration-ms="29304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyViewAppButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:35:35 IST" name="tearDown" finished-at="2024-02-16T11:35:37 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:35:37 IST" name="setup" finished-at="2024-02-16T11:35:53 IST" duration-ms="16085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyViewWebsiteButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:35:53 IST" name="verifyViewWebsiteButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn" finished-at="2024-02-16T11:36:27 IST" duration-ms="33904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyViewWebsiteButtonGetsDisplayedAfterClickingResidentLoginButtonUnderSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:homepage.HomePage@15aab8c6]" started-at="2024-02-16T11:36:27 IST" name="tearDown" finished-at="2024-02-16T11:36:29 IST" duration-ms="2182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- homepage.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
